@@ -1,8 +1,6 @@
 <h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
 <h3 align="center">Etudiant en Informatique 🌟.</h3>
 
-[![spotify-github-profile]](https://open.spotify.com/track/0Ddk8Ha9xW6332fYrMVtTa?si=2a50fa1d7b8545fa)⠀</code> </h1>
-
 
 <br>
 
