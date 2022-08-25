@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%ABD2615&center=true&vCenter=true&lines=Salut%2C+C'est+Syoma!;Apprenti+Développeur;Etudiant+en+Informatique;Supporteur+Open-Source)](https://git.io/typing-svg)
 </h1>
 
-<h3 align="center">Quoi de neuf ? 🌟.</h3>
+<h3 align="center">Quoi de neuf ? 🌟</h3>
 
 
 <br>
