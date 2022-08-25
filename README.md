@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="left">Contacte moi !:</h3>
+<h3 align="left">Contacte moi :</h3>
 <p align="left">
   <a href="https://instagram.com/anto.0824"target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
