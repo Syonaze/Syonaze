@@ -1,4 +1,4 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+C'est+Syoma!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+C'est+Syoma!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">Etudiant en Informatique 🌟.</h3>
 
