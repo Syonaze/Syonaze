@@ -19,7 +19,7 @@
 
 - 🌱 J'apprends actuellement le Python et le Javascript
 
-- ⚡ Discord : 
+- ⚡ Discord : **Syoma#3044**
 
 <br>
 
