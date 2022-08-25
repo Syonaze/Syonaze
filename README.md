@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Bienvenue sur mon github !</h1>
 <h3 align="center">Etudiant en Informatique 🌟.</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)⠀</code> </h1>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/track/0Ddk8Ha9xW6332fYrMVtTa?si=2a50fa1d7b8545fa)⠀</code> </h1>
 
 
 <br>
